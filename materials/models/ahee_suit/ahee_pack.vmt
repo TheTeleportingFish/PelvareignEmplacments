@@ -1,0 +1,24 @@
+"Vertexlitgeneric"
+{
+	"$basetexture"  "models\ahee_suit\ahee_suit"
+	"$bumpmap"     "models\ahee_suit\ahee_suit_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.05 0.05 0.05 ]"
+	"$nocull" "1"
+
+	"$phong"     "1"
+	"$phongboost"   "1"
+	"$phongfresnelranges"      "[5 3 8]"
+	"$phongtint"                   "[0.2 0.2 0.2]" 
+	"$phongexponenttexture" 	"models\ahee_suit\ahee_suit_g"
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"0.2"
+	"$halflambert" 		"1"
+
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"2"	
+	"$rimlightboost"	"0.6"
+	"$rimmask" 	"1"
+}

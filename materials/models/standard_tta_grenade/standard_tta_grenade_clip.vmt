@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+
+	"$color2" "{35.0 35.0 35.0}"
+
+	"$phong" 1
+	"$phongboost" "0.01"
+	"$phongexponent" "1"
+	"$phongfresnelranges" "[0.1 0.1 0.1]"
+	
+	"$surfaceprop" "Metal"
+}

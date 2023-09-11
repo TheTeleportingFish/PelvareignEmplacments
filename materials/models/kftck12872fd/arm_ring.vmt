@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+
+	$basetexture models/kftck12872fd/arm_ring
+	
+	$selfillum 1
+    $selfillummask models/kftck12872fd/arm_ring_selfillum
+	$envmap models/kftck12872fd/arm_ring_envmap
+	$envmapmask models/kftck12872fd/arm_ring_specmap
+	
+	$surfaceprop Metal
+}

@@ -1,0 +1,7 @@
+"SpriteCard"
+{
+	$basetexture "effects/debris_01_glow_anim"
+	$depthblend 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

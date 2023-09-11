@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	$basetexture models/kftck12872fd/manufactured_skin
+	
+	$selfillum 1
+    $selfillummask models/kftck12872fd/manufactured_skin_selfillum
+	$envmap models/kftck12872fd/manufactured_skin_envmap
+	$envmapmask models/kftck12872fd/manufactured_skin_specmap
+	
+}
